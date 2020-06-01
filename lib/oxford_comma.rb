@@ -1,4 +1,6 @@
 require 'pry'
 def oxford_comma(array)
-# binding.pry
+  # binding.pry
+  if array.length == log10
+
 end
